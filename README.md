@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Oliver Ingholm Kwambe, and i am a developer!
+My name is Oliver, a 17 year old developer based in Norway 🇳🇴
 <!--
 **woho4u/woho4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
